@@ -1,0 +1,124 @@
+Ibrahim Qadhmani
+
+PROG2220: Section 2
+
+Assignment 1: Task 1
+
+Current System Date
+2017-09-24 01:18:54
+
+
+*** Task 1, Q1. Textbook Exercise 3-06 (page 111) [2 points] ***
+
+vendor_name	vendor_contact_last_name	vendor_contact_first_name
+Dristas Groom & McCormick	Aaronsen	Thom
+Internal Revenue Service	Aileen	Joan
+US Postal Service	Alberto	Francesco
+Yale Industrial Trucks-Fresno	Alexis	Alexandro
+Leslie Company	Alondra	Zev
+American Booksellers Assoc	Angelica	Nashalie
+Courier Companies, Inc	Antavius	Troy
+Pacific Gas & Electric	Anthoni	Kaitlyn
+Lou Gentile's Flower Basket	Anum	Trisha
+Pollstar	Aranovitch	Robert
+
+
+*** Task 1, Q2. Textbook Exercise 3-07 (page 111)[1 point] ***
+
+vendor_name	vendor_contact_last_name	vendor_contact_first_name	full_name
+Dristas Groom & McCormick	Aaronsen	Thom	Aaronsen, Thom
+Internal Revenue Service	Aileen	Joan	Aileen, Joan
+US Postal Service	Alberto	Francesco	Alberto, Francesco
+Yale Industrial Trucks-Fresno	Alexis	Alexandro	Alexis, Alexandro
+Leslie Company	Alondra	Zev	Alondra, Zev
+American Booksellers Assoc	Angelica	Nashalie	Angelica, Nashalie
+Courier Companies, Inc	Antavius	Troy	Antavius, Troy
+Pacific Gas & Electric	Anthoni	Kaitlyn	Anthoni, Kaitlyn
+Lou Gentile's Flower Basket	Anum	Trisha	Anum, Trisha
+Pollstar	Aranovitch	Robert	Aranovitch, Robert
+Compuserve	Armando	Jan	Armando, Jan
+Data Reproductions Corp	Arodondo	Cesar	Arodondo, Cesar
+State of California	Articunia	Mercedez	Articunia, Mercedez
+Computer Library	Aryn	Leroy	Aryn, Leroy
+Fresno Rack & Shelving Inc	Baylee	Dakota	Baylee, Dakota
+United Parcel Service	Beauregard	Violet	Beauregard, Violet
+Nat Assoc of College Stores	Bernard	Lucy	Bernard, Lucy
+Baker & Taylor Books	Bernardo	Brittnee	Bernardo, Brittnee
+Golden Eagle Insurance Co	Blanca	Korah	Blanca, Korah
+Unocal	Bluzinski	Rachael	Bluzinski, Rachael
+Simon Direct Inc	Bradlee	Daniel	Bradlee, Daniel
+Gostanian General Building	Bragg	Walter	Bragg, Walter
+Fresno Credit Bureau	Braydon	Anne	Braydon, Anne
+Fresno County Tax Collector	Brenton	Kila	Brenton, Kila
+Nielson	Brooklynn	Keely	Brooklynn, Keely
+Federal Express Corporation	Bucket	Charlie	Bucket, Charlie
+IBM	Camron	Trentin	Camron, Trentin
+Publishers Weekly	Carrollton	Priscilla	Carrollton, Priscilla
+Boucher Communications Inc	Carson	Julian	Carson, Julian
+Fresno Photoengraving Company	Chaddick	Derek	Chaddick, Derek
+Ph Photographic Services	Cheyenne	Kaylea	Cheyenne, Kaylea
+Dataforms/West	Church	Charlie	Church, Charlie
+Champion Printing Company	Clifford	Jillian	Clifford, Jillian
+Small Press	Colette	Dusty	Colette, Dusty
+The Fresno Bee	Colton	Leah	Colton, Leah
+Retirement Plan Consultants	Edgardo	Salina	Edgardo, Salina
+Blue Cross	Eliana	Nikolas	Eliana, Nikolas
+Digital Dreamworks	Elmert	Ron	Elmert, Ron
+RR Bowker	Essence	Marjorie	Essence, Marjorie
+Cardinal Business Media, Inc.	Eulalia	Kelsey	Eulalia, Kelsey
+Micro Center	Evan	Emily	Evan, Emily
+
+
+*** Task 1, Q3. Textbook Exercise 3-08 (page 111) [1 point] ***
+
+Due Date	Invoice Total	10%	Plus 10%
+2014-08-23	503.20	50.320	553.520
+2014-08-10	579.42	57.942	637.362
+2014-08-08	600.00	60.000	660.000
+2014-08-06	739.20	73.920	813.120
+2014-07-25	904.14	90.414	994.554
+2014-07-11	936.93	93.693	1030.623
+2014-06-29	639.77	63.977	703.747
+2014-06-24	565.15	56.515	621.665
+2014-06-20	953.10	95.310	1048.410
+2014-06-02	856.92	85.692	942.612
+2014-05-24	601.95	60.195	662.145
+2014-05-16	662.00	66.200	728.200
+
+
+*** Task 1, Q4. Textbook Exercise 3-09 (page 111) [2 points] ***
+
+invoice_number	invoice_total	payment_credit_total	balance_due
+P-0608	20551.18	1200.00	19351.18
+0-2436	10976.06	0.00	10976.06
+31361833	579.42	0.00	579.42
+9982771	503.20	0.00	503.20
+547480102	224.00	0.00	224.00
+
+
+*** Task 1, Q5. Textbook Exercise 3-10 (page 112) [2 points] ***
+
+invoice_number	invoice_date	balance_due	payment_date
+39104	2014-07-10	85.31	NULL
+963253264	2014-07-18	52.25	NULL
+31361833	2014-07-21	579.42	NULL
+263253268	2014-07-21	59.97	NULL
+263253270	2014-07-22	67.92	NULL
+263253273	2014-07-22	30.75	NULL
+P-0608	2014-07-23	19351.18	NULL
+9982771	2014-07-24	503.20	NULL
+134116	2014-07-28	90.36	NULL
+0-2436	2014-07-31	10976.06	NULL
+547480102	2014-08-01	224.00	NULL
+
+
+*** Task 1, Q6. Textbook Exercise 3-11 (page 112) [1 point] ***
+
+DATE_FORMAT(CURRENT_DATE, '%m-%d-%Y')
+09-24-2017
+
+
+*** Task 1, Q7. Textbook Exercise 3-12 (page 112) [1 point] ***
+
+starting_principal	interest	principal_plus_interest
+50,000	3,250	53,250
